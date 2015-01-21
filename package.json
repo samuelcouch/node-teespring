@@ -1,0 +1,23 @@
+{
+  "name": "node-teespring",
+  "version": "0.1.0",
+  "description": "Unofficial wrapper for Teespring's private API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelcouch/node-teespring.git"
+  },
+  "keywords": [
+    "teespring",
+    "api"
+  ],
+  "author": "Sam Couch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelcouch/node-teespring/issues"
+  },
+  "homepage": "https://github.com/samuelcouch/node-teespring"
+}
