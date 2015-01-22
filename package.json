@@ -1,6 +1,6 @@
 {
-  "name": "node-teespring",
-  "version": "0.1.0",
+  "name": "teespring",
+  "version": "0.1.1",
   "description": "Unofficial wrapper for Teespring's private API",
   "main": "index.js",
   "scripts": {
