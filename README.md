@@ -7,7 +7,10 @@ Wrapper to integrate Teespring cammpaigns in to your own projects.
 `npm install teespring`
 
 ### Usage
-For example usage, see the `examples` directory.
+*searchSpring(query, hits_per_page, callback)*
+- Returns a JSON response of hits from the search query.
+
+For example applications, see the `examples` directory.
 
 ### Tests
 Run `mocha` to run the tests.
